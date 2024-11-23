@@ -1,1 +1,1 @@
-from Insta import create_direc
+from Insta import __main__
