@@ -1,6 +1,6 @@
 # INSTAGRAM CLONING TOOL
 ```bash
-rm -rf RxR
+rm -rf INSTA
 git clone https://github.com/RizzyXRijan-404/INSTA
 cd INSTA
 python run.py
