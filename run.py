@@ -1,1 +1,1 @@
-import Insta
+from Insta import main
