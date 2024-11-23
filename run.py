@@ -1,1 +1,1 @@
-from Insta import __main__
+from Insta import MenuCrack
